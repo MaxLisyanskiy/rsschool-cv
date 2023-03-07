@@ -1,2 +1,5 @@
 # rsschool-cv
-RSSchool CV Task
+
+https://MaxLisyanskiy.github.io/rsschool-cv/cv
+
+https://MaxLisyanskiy.github.io/rsschool-cv/
